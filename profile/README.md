@@ -51,7 +51,7 @@ Additionally, we have developed a C# desktop application that allows parents and
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-organization/memory-game-desktop.git
+   git clone https://github.com/MemoKidz/Gestor_archivos.git
    ```
 2. Open the project in Visual Studio.
 3. Build and run the application.
